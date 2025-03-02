@@ -1,0 +1,75 @@
+{
+  "Entradas": [
+    { "pedido": "Chorizo de cerdo", "precio": 6000 }
+  ],
+  "Hamburguesas": [
+    { "pedido": "Hamburguesa sencilla de carne", "precio": 13000 },
+    { "pedido": "Hamburguesa sencilla de pollo", "precio": 12000 },
+    { "pedido": "Hamburguesa sencilla de cerdo", "precio": 12000 },
+    { "pedido": "Hamburguesa bacon", "precio": 15000 },
+    { "pedido": "Hamburguesa santarrosana", "precio": 15000 },
+    { "pedido": "Hamburguesa costera", "precio": 15000 },
+    { "pedido": "Hamburguesa full house", "precio": 15000 },
+    { "pedido": "Hamburguesa parrillera", "precio": 15000 },
+    { "pedido": "Hamburguesa cremosa", "precio": 15000 }
+  ],
+  "Perros": [
+    { "pedido": "Perro sencillo", "precio": 6000 },
+    { "pedido": "Perro gemelo", "precio": 8000 },
+    { "pedido": "Perro suizo", "precio": 14000 },
+    { "pedido": "Perro ahumado", "precio": 13000 },
+    { "pedido": "Perro santarrosano", "precio": 14000 },
+    { "pedido": "Perro dulce sueño", "precio": 13000 },
+    { "pedido": "Perro 4 x 4", "precio": 14000 },
+    { "pedido": "Perro criollo", "precio": 13000 },
+    { "pedido": "Perro Doble Q", "precio": 14000 }
+  ],
+  "Asados": [
+    { "pedido": "Carne asada", "precio": 25000 },
+    { "pedido": "Cerdo asado", "precio": 23000 },
+    { "pedido": "Pechuga asada", "precio": 23000 }
+  ],
+  "Salchipapas": [
+    { "pedido": "Salchipapa sencilla", "precio": 12000 },
+    { "pedido": "Salchipapa pollo", "precio": 17000 },
+    { "pedido": "Salchipapa carne", "precio": 18000 },
+    { "pedido": "Salchipapa cerdo", "precio": 16000 },
+    { "pedido": "Salchipapa mixta", "precio": 20000 },
+    { "pedido": "Salchipapa suiza", "precio": 18000 },
+    { "pedido": "Salchipapa sencilla", "precio": 8000 }
+  ],
+  "Salvajadas": [
+    { "pedido": "Salvajada small", "precio": 50000 },
+    { "pedido": "Salvajada medium", "precio": 70000 },
+    { "pedido": "Salvajada large", "precio": 90000 }
+  ],
+  "Exclusivos": [
+    { "pedido": "Banquete Odin x3", "precio": 80000 },
+    { "pedido": "Banquete Odin x6", "precio": 160000 },
+    { "pedido": "Banquete Thor x3", "precio": 68000 },
+    { "pedido": "Banquete Thor x6", "precio": 136000 },
+    { "pedido": "Banquete Valhala", "precio": 148000 }
+  ],
+  "Micheladas": [
+    { "pedido": "Michelada de mango", "precio": 10000 },
+    { "pedido": "Michelada de maracuya", "precio": 10000 },
+    { "pedido": "Michelada de piña", "precio": 10000 },
+    { "pedido": "Michelada de frutos amarillos", "precio": 12000 },
+    { "pedido": "Michelada de manzana", "precio": 10000 },
+    { "pedido": "Michelada de cereza", "precio": 10000 },
+    { "pedido": "Michelada de lychee", "precio": 11000 },
+    { "pedido": "Michelada de frutos rojos", "precio": 14000 }
+  ],
+  "Adicionales": [
+    { "pedido": "Papa francesa", "precio": 5000 },
+    { "pedido": "Gratinado", "precio": 4000 },
+    { "pedido": "Tocineta", "precio": 5000 },
+    { "pedido": "Maíz", "precio": 3000 },
+    { "pedido": "Carne de hamburguesa", "precio": 6000 }
+  ],
+  "Bebidas": [
+    { "pedido": "Agua 300 ml", "precio": 1000 },
+    { "pedido": "Gaseosa personal 250 ml", "precio": 1500 },
+    { "pedido": "Gaseosa 1.5L", "precio": 6000 }
+  ]
+}

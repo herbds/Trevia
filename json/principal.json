@@ -1,0 +1,16 @@
+{
+  "productos_vendidos": [
+    {"nombre": "Hamburguesa bacon", "precio": "$15000"},
+    {"nombre": "Hamburguesa santarrosana", "precio": "$20000"},
+    {"nombre": "Salchipapa de pollo", "precio": "$17000"},
+    {"nombre": "Salchipapa mixta", "precio": "$20000"},
+    {"nombre": "Michelada de mango", "precio": "$10000"}
+  ],
+  "productos_recomendados": [
+    {"nombre": "Perro 4x4", "precio": "$14000"},
+    {"nombre": "Banquete odin x3", "precio": "$80000"},
+    {"nombre": "Asado de pechuga", "precio": "$23000"},
+    {"nombre": "Hamburguesa parrillera", "precio": "$15000"},
+    {"nombre": "Michelada de lychee", "precio": "$11000"}
+  ]
+}
