@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trevia - Pedidos</title>
+    <link rel="stylesheet" href="/css/styles.css">
+    <script src="/js/pedido_script.js" defer></script>
+</head>
+<body>
+<header>
+    <img src="/images/Logo/Trevia_logo.jpg" alt="Logo Trevia" class="logo">
+</header>
+<nav>
+    <a href="/Trevia/inicio">Inicio</a>
+    <a href="/Trevia/menu">Menú</a>
+    <a href="/Trevia/about">Conócenos</a>
+    <a href="/Trevia/order">Ordena aquí</a>
+</nav>
+<main class="container">
+    <h1>Lista de Pedidos</h1>
+    <div id="tablaPedidos"></div>
+    <div id="totalContainer">
+        <p>Total: $<span id="totalPrecio">0</span></p>
+    </div>
+
+    <div class="carrito-container">
+        de Compras</h2>
+        <div id="carritoItems">
+            <p class="carrito-vacio">No hay productos en el carrito</p>
+        </div>
+        <div id="carritoTotal">
+            <p>Total del carrito: $<span id="totalCarrito">0</span></p>
+        </div>
+
+        <div class="user-info">
+            <input type="text" id="nombreUsuario" placeholder="Nombre">
+            <input type="text" id="direccionUsuario" placeholder="Dirección">
+            <input type="text" id="billeteUsuario" placeholder="Billete con el que pagará (opcional)">
+            <input type="text" id="solicitudUsuario" placeholder="Solicitud (quitar ingrediente)">
+        </div>
+
+        <button id="realizarPedidoBtn" class="btn-realizar-pedido">Realizar Pedido</button>
+        <a id="whatsappLink" href="#" style="display: none;">Enviar pedido por WhatsApp</a>
+    </div>
+    <div class="Pagos-container">
+        <img src="/images/Pagos/Recepcion_pago.jpg" alt="Pagos" class="Pagos">
+        <button id="descargarQRBtn" class="btn-descargar-qr">Descargar QR</button>
+    </div>
+</main>
+</body>
+</html>
